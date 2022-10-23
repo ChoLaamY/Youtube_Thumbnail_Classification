@@ -1,5 +1,5 @@
 # Youtube Thumbnail Classification
-## Check out the [jyputer notebook](Final_Project.ipynb)
+## Check out the [jyputer notebook](Thumbnail_Classification.ipynb)
 
 ### Intro
 I was interested in exploring an image classification problem tied to something that I interacted with or used on a daily basis. One particular problem I am interested in is how tags are generated when videos or images are uploaded onto a digital platform. For example, I found that I could filter for different images of objects or people on the iPhone. Such that if I typed 'cat' into the search bar, I would get a selection of all the identified images of my cat from my photo album. This problem is related to object detection, but I believe that it is more broadly related to the similar problem of image classification. I perceive object detection to be a more straightforward problem, where there is more or less no overlap between categories. As such, I am more interested in whether neural networks can identify different themes from images that have objects that could belong to more than 1 category.
